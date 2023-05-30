@@ -3,8 +3,8 @@ The test code is provided "as is" but 100% functionnal and compiled using Arduin
 ![image](https://github.com/bsfconception/ESP32-GSM-GPS-Tracker/assets/84618082/ea34c178-200e-4a96-8ced-014bd8f98578)
 
 The test code includes
-- IO maangement (Buzzer, Button, Leds)
-- GPS module managment 
+- IO management (Buzzer, Button, Leds)
+- GPS module management 
   - serial connection
   - NEMA decoding 
   - GPS position extraction (thanks to TinyGPS++ library)
@@ -13,7 +13,7 @@ The test code includes
   -  Serial connection
   -  AT protocol communication
   -  Module startup and configuration
-  -  SMS Mangement
+  -  SMS Management
 
 By default, the sotfware listen to SMS messages and triggers the corresping action
   - 'POS' : returns the GPS position of the module (including GooGleMap URL)
