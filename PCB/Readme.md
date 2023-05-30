@@ -1,2 +1,4 @@
+Component placement
 
-![PETT_BSF-B Fab](https://github.com/bsfconception/ESP32-GSM-GPS-Tracker/assets/84618082/99300d34-b3ac-428f-a053-46beba3ca5d9)
+![PETT_BSF-F Fab](https://github.com/bsfconception/ESP32-GSM-GPS-Tracker/assets/84618082/c164a32e-7595-4418-ad6b-8d9aa5b05302)
+
